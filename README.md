@@ -1,0 +1,1 @@
+The HW2 file contains the fourth and fifth tasks left over from the workshop. In addition, for each task from leetcode, the repository contains a cpp file with the solution code and a jpeg file with the test result. Such files have the number and name of the task in their filenames
